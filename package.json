@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-share-vk",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "NodeBB Vkontakte Share",
   "main": "library.js",
   "repository": {
@@ -23,8 +23,7 @@
   },
   "readme": "# NodeBB VKontakte Share\n\nNodeBB Plugin that allows users to share posts via their Vkontakte account.\n",
   "readmeFilename": "README.md",
-  "dependencies": {
-  },
+  "dependencies": {},
   "nbbpm": {
     "compatibility": "^1.0.0"
   },
