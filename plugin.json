@@ -6,6 +6,6 @@
   "library": "./library.js",
   "templates": "templates",
   "hooks": [
-    { "hook": "filter:social.posts", "method": "addNetwork" },
+    { "hook": "filter:social.posts", "method": "addNetwork" }
   ]
 }
