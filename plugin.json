@@ -5,6 +5,9 @@
   "url": "https://github.com/iiiyx/nodebb-plugin-share-vk",
   "library": "./library.js",
   "templates": "templates",
+  "scripts": [
+      "public/src/client.js"
+  ],
   "hooks": [
     { "hook": "filter:social.posts", "method": "addNetwork" }
   ]
