@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-share-vk",
-  "version": "2.0.7",
+  "version": "1.0.0",
   "description": "NodeBB Vkontakte Share",
   "main": "library.js",
   "repository": {
