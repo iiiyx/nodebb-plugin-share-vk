@@ -1,0 +1,44 @@
+{
+  "name": "nodebb-plugin-share-vk",
+  "version": "2.0.7",
+  "description": "NodeBB Vkontakte Share",
+  "main": "library.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iiiyx/nodebb-plugin-share-vk"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "vkontakte",
+    "share"
+  ],
+  "author": {
+    "name": "Oleg Sobolev",
+    "email": "iiiyxep@list.ru"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iiiyx/nodebb-plugin-share-vk/issues"
+  },
+  "readme": "# NodeBB VKontakte Share\n\nNodeBB Plugin that allows users to share posts via their Vkontakte account.\n",
+  "readmeFilename": "README.md",
+  "dependencies": {
+  },
+  "nbbpm": {
+    "compatibility": "^1.0.0"
+  },
+  "homepage": "https://github.com/iiiyx/nodebb-plugin-share-vk",
+  "maintainers": [
+    {
+      "name": "iiiyx",
+      "email": "iiiyxep@list.ru"
+    }
+  ],
+  "_id": "nodebb-plugin-share-vk@1.0.0",
+  "dist": {
+    "shasum": "???"
+  },
+  "_from": "nodebb-plugin-share-vk@",
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-share-vk/-/nodebb-plugin-share-vk-1.0.0.tgz"
+}
