@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-share-vk",
-  "version": "1.1.1",
+  "version": "0.0.0",
   "description": "NodeBB Vkontakte Share",
   "main": "library.js",
   "repository": {
@@ -34,10 +34,10 @@
       "email": "iiiyxep@list.ru"
     }
   ],
-  "_id": "nodebb-plugin-share-vk@1.0.0",
+  "_id": "nodebb-plugin-share-vk@0.0.0",
   "dist": {
     "shasum": "???"
   },
   "_from": "nodebb-plugin-share-vk@",
-  "_resolved": "https://registry.npmjs.org/nodebb-plugin-share-vk/-/nodebb-plugin-share-vk-1.0.0.tgz"
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-share-vk/-/nodebb-plugin-share-vk-0.0.0.tgz"
 }
